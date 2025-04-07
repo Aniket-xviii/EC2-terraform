@@ -127,7 +127,7 @@ This command will download the necessary provider plugins and prepare your worki
   - Downloads the AWS provider plugin.
   - Prepares the backend (where Terraform stores its state) and configures it.
 
-![Screenshot of Terraform Init](./Images/init.png)
+![init](https://github.com/user-attachments/assets/9761cd97-3fda-469b-9fd4-e7222a785798)
 
 #### 6.2. **Run Terraform Plan**
 
@@ -169,7 +169,7 @@ Terraform will prompt you to confirm the execution of the plan by typing `yes`.
   - Terraform creates the resources defined in the configuration file (in this case, the EC2 instance).
   - It will show you an output of the created resources once the process is complete.
 
-![Screenshot of Terraform Apply](./Images/apply.png)
+![apply](https://github.com/user-attachments/assets/2b910e8c-39a1-4ce4-8ad1-88afe4f6e42c)
 
 ---
 
