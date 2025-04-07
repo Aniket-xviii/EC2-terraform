@@ -45,7 +45,8 @@ Since you did not install the AWS CLI, I'll revise the README to exclude the CLI
   2. Extract the contents to a directory (e.g., `C:\terraform`).
   3. Add `C:\terraform` to the system's `PATH` environment variable.
 
-  ![Screenshot of Terraform Installation](./Images/install.png)
+ ![install](https://github.com/user-attachments/assets/4dfbb134-06f2-4215-88bb-2d57eb5c5022)
+
 
 #### 4.2. **Set up VS Code**
 
