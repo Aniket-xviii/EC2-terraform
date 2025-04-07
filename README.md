@@ -148,12 +148,12 @@ Here’s an example of what the output might look like:
 ```plaintext
 Plan: 1 to add, 0 to change, 0 to destroy.
 ```
+![plan](https://github.com/user-attachments/assets/e4fbbb94-8f6b-4e76-a995-b4595b2b5c20)
 
 - **Benefits**:
   - You can review the changes before they are actually made.
   - Helps catch mistakes or misconfigurations before deployment.
 
-![Screenshot of Terraform Plan](./Images/plan.png)
 
 #### 6.3. **Apply the Configuration**
 
